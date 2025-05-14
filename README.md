@@ -1,11 +1,12 @@
 # Project-2
 EDA of Food Service
+Food-Service-EDA/
 ├── data/
-│ └── Food_data.csv # The original dataset
+│   └── Food_data.csv
 ├── notebooks/
-│ └── Food_Service_EDA.ipynb # Jupyter notebook for the EDA process
+│   └── Food_Service_EDA.ipynb
 ├── reports/
-│ └── Final_Report.pdf # A well-written PDF report summarizing the findings
-├── .gitignore # Git ignore file (to exclude unnecessary files)
-├── README.md # Project documentation and instructions
-├── requirements.txt # Python dependencies for the project
+│   └── Final_Report.pdf
+├── .gitignore
+├── README.md
+├── requirements.txt
