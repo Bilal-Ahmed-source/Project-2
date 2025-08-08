@@ -1,5 +1,5 @@
-# Project-2
-EDA of Food Service
+# Exploratory Data Analysis of Food Service to Enhance Efficiency and Operations
+
 
 
 The goal of this project is to explore a food service dataset to understand how to improve efficiency and reduce food waste. The data includes things like the number of meals served, kitchen staff, temperature, humidity, and the amount of food wasted. 
